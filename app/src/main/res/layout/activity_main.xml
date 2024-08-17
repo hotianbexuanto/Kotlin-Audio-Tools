@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+     xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="match_parent"
+     android:layout_width="match_parent"
+     android:padding="16dp">
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:layout_centerHorizontal="true"
+         android:layout_alignParentTop="true"
+         android:id="@+id/btnPlayAudio"
+         android:text="Play Audio" />
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:layout_below="@id/btnPlayAudio"
+         android:layout_centerHorizontal="true"
+         android:layout_marginTop="16dp"
+         android:id="@+id/btnStopAudio"
+         android:text="Stop Audio" />
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:layout_below="@id/btnStopAudio"
+         android:layout_centerHorizontal="true"
+         android:layout_marginTop="16dp"
+         android:id="@+id/btnPlayFileAudio"
+         android:text="Play File Audio" />
+
+    <EditText
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_below="@id/btnPlayFileAudio"
+         android:hint="Enter text for Morse code"
+         android:layout_marginTop="16dp"
+         android:id="@+id/edtMorseInput" />
+
+    <Button
+         android:layout_height="wrap_content"
+         android:layout_width="wrap_content"
+         android:layout_below="@id/edtMorseInput"
+         android:layout_centerHorizontal="true"
+         android:layout_marginTop="16dp"
+         android:id="@+id/btnConvertToMorse"
+         android:text="Convert to Morse" />
+
+    <TextView
+         android:layout_height="wrap_content"
+         android:layout_width="match_parent"
+         android:layout_below="@id/btnConvertToMorse"
+         android:layout_marginTop="16dp"
+         android:id="@+id/txtMorseOutput"
+         android:text="" />
+
+    <RelativeLayout
+         android:layout_height="200dp"
+         android:layout_width="match_parent"
+         android:layout_below="@id/txtMorseOutput"
+         android:background="#E0E0E0"
+         android:layout_marginTop="16dp"
+         android:id="@+id/audioVisualizerContainer">
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,125 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/音频读取/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 11,
+          "index": 971,
+          "line": 25
+        },
+        "start": {
+          "column": 11,
+          "index": 971,
+          "line": 25
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/音频读取/app/src/main/java/hotian/dev/radiotool/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 5357,
+          "line": 150
+        },
+        "start": {
+          "column": 1,
+          "index": 5357,
+          "line": 150
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/音频读取/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1131,
+          "line": 52
+        },
+        "start": {
+          "column": 0,
+          "index": 1131,
+          "line": 52
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/音频读取/app/src/main/res/xml/backup_rules.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/音频读取/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 17,
+          "index": 2382,
+          "line": 68
+        },
+        "start": {
+          "column": 17,
+          "index": 2382,
+          "line": 68
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/音频读取/app/src/main/res/layout/content_main.xml",
+      "selection": {
+        "end": {
+          "column": 52,
+          "index": 707,
+          "line": 16
+        },
+        "start": {
+          "column": 52,
+          "index": 707,
+          "line": 16
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/音频读取/app/src/main/java/hotian/dev/radiotool/FileAudioReader.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 2087,
+          "line": 73
+        },
+        "start": {
+          "column": 1,
+          "index": 2087,
+          "line": 73
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/音频读取/app/src/main/java/hotian/dev/radiotool/AudioVisualizer.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 1110,
+          "line": 40
+        },
+        "start": {
+          "column": 1,
+          "index": 1110,
+          "line": 40
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/音频读取/app/src/main/AndroidManifest.xml"
+}
